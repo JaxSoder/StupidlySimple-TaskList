@@ -9,7 +9,7 @@ This project was created to get a little more experience with SQL and SQLite, I'
 
 
 # Start Guide
-Click on startup.py. Pretty simple
+Click on startup.py. Might need to install Dependencies. Pretty simple
 
 # Usage
 | Command | Description |
